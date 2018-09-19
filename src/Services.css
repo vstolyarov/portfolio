@@ -1,0 +1,10 @@
+.Services {
+    background-color: #1d809f;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.Services h3 {
+    font-size: 16px;
+    text-transform: uppercase;
+    color: rgb(255, 205, 5)
+}
