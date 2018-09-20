@@ -12,8 +12,18 @@
 }
 
 .Services h2 {
-    font-size: 38px;
+    font-size: 26px;
     color: white;
     margin-bottom: 48px;
     margin-top: 0;
 }
+
+.list-group {
+    display: inline-block;
+    margin-right: 8px;
+}
+
+.Services a:hover{
+    color:#4ccefe;
+    
+  }

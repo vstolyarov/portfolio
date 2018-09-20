@@ -4,6 +4,12 @@ nav {
     background-color: #1d809f;
     align-items: center;
 }
+
+nav a:hover{
+    color:#00bafe;
+    
+  }
+
 .logo {
     color: white;
     font-size: 30px;
