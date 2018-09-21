@@ -18,9 +18,11 @@
     margin-top: 0;
 }
 
-.list-group {
+.list-group-item {
     display: inline-block;
-    margin-right: 8px;
+    margin-right: 10px;
+    
+
 }
 
 .Services a:hover{

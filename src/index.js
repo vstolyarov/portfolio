@@ -6,6 +6,7 @@ import registerServiceWorker from './registerServiceWorker';
 import Navigation from './Navigation';
 import Header from './Header';
 import Services from './Services';
+import BasicExample from './BasicExample';
 
 class App extends Component {
     render() {
@@ -19,5 +20,6 @@ class App extends Component {
     }
   }
 
-ReactDOM.render(<App />, document.getElementById('root'));
+//ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<BasicExample />, document.getElementById('root'));
 registerServiceWorker();
